@@ -9,3 +9,7 @@
 [25.02.05](https://github.com/100-hours-a-week/sen-till/blob/main/FEB/2025-02-05.md) : 모르는 개념 정리
 
 [25.02.06](https://github.com/100-hours-a-week/sen-till/blob/main/FEB/2025-02-06.md) : 부하 테스트
+
+### :bulb: [2월 둘째주]
+
+[25.02.10](https://github.com/100-hours-a-week/sen-till/blob/main/FEB/2025-02-10.md) : 모니터링 구축 + JAVA 강의

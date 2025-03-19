@@ -42,10 +42,18 @@
 
 [25.03.04](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-04.md) : 지도 api
 
-[25.03.10](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-10.md) :
+### :fire: [3월 둘째주] - 기획 및 공부
+
+[25.03.10](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-10.md) : API 작성
 
 [25.03.11](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-11.md) : 지도 api
 
-[25.03.12](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-12.md) : 스프링 공부
+[25.03.12](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-12.md) : CS 면접 준비 + 스프링 공부
 
 [25.03.13](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-13.md) : 이력서 작성 + 스프링 공부
+
+[25.03.14](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-14.md) : DDL 설계 시 주의사항
+
+### :fire: [3월 셋째주] - 기획 및 공부
+
+[25.03.18](https://github.com/100-hours-a-week/sen-till/blob/main/MAR/2025-03-18.md) : CS 면접 준비 + 인증 필터
